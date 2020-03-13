@@ -1,4 +1,4 @@
-package br.edu.ifpb.mpti.linkedjobs;
+package br.edu.ifpb.mpti.linkedjobs.services;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
